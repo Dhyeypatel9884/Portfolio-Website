@@ -1,0 +1,2 @@
+This is a placeholder for the original character.glb file.
+The actual 3D model is encrypted and stored in 'character.enc', which is loaded and decrypted at runtime by the website.
